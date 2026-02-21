@@ -16,8 +16,6 @@ Great game ideas die because testing even one mechanic requires building an enti
 
 Describe your idea — our AI builds a playable, multiplayer game around it in minutes. No installs. No downloads. Just play.
 
-We're a lean, passionate team that shipped a full web3 gaming platform on sweat equity and $24k in grants. Every feature below is live.
-
 ---
 
 ## ✨ Key Features
@@ -75,7 +73,6 @@ We're a lean, passionate team that shipped a full web3 gaming platform on sweat 
 | 🐦 **Twitter/X** | [x.com/chaincraftgames](https://x.com/chaincraftgames) |
 | 📸 **Instagram** | [instagram.com/chaincraftgames](https://www.instagram.com/chaincraftgames) |
 | 🟣 **Warpcast** | [warpcast.com/~/channel/chaincraft](https://warpcast.com/~/channel/chaincraft) |
-| 📺 **SankoTV** | [sanko.tv/chaincraftgames](https://sanko.tv/chaincraftgames) |
 | 💼 **LinkedIn** | [linkedin.com/company/chaincraftgames](https://www.linkedin.com/company/chaincraftgames/) |
 
 ---
