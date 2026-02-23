@@ -56,8 +56,8 @@ Describe your idea — our AI builds a playable, multiplayer game around it in m
 
 | Repo | Description |
 |---|---|
-| **chaincraft-frontend** | Our Next.js app where users create, test, publish, and play games on the Chaincraft platform |
-| **chaincraft-orchestrator** | Our Supabase-backed server that bridges the app and backend services including the game builder and blockchain |
+| [**chaincraft-frontend**](https://github.com/chaincraftgames/chaincraft-frontend) | Our Next.js app where users create, test, publish, and play games on the Chaincraft platform |
+| [**chaincraft-orchestrator**](https://github.com/chaincraftgames/chaincraft-orchestrator) | Our Supabase-backed server that bridges the app and backend services including the game builder and blockchain |
 
 > Other repos in this organization are prototypes or experiments and are not actively maintained.
 
